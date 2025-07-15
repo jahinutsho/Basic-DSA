@@ -1,0 +1,1 @@
+{"name":"Local: delete_at_head","url":"/Users/jahin/Desktop/Basic Data Structures/module 07/delete_at_head.cpp","tests":[{"id":1751725529487,"input":"10\n20\n30\n40\n50\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jahin/Desktop/Basic Data Structures/module 07/delete_at_head.cpp","group":"local","local":true}
